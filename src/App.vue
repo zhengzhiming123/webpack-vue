@@ -16,7 +16,7 @@ export default {
 
   },
   mounted() {
-    
+    console.log(22)
   },
   methods: {
 
