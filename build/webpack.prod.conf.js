@@ -1,6 +1,5 @@
 const {merge} = require('webpack-merge');
 const {CleanWebpackPlugin} = require('clean-webpack-plugin');
-const path = require('path');
 const baseConfig = require('./webpack.base.conf');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
